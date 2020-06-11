@@ -15,14 +15,15 @@ Output (Image)
 screenshot
 
 Requirements:
-Numpy
-Time
-OpenCV
-OpenCV_Contrib
-Math
-Download yolov3.weights for COCO dataset from this link and add it to your repo, click here
+
+1.Numpy
+2.Time
+3.OpenCV
+4.OpenCV_Contrib
+5.Math
 
 Installation of Model:
-To deploy algorithm on images, python SDD_Image.py
-To deploy algorithm on videos, python SDD_Video.py
-To deploy algorithm on live streaming webcam, python SDD_Camera.py
+
+1.To deploy algorithm on images, python SDD_Image.py
+2.To deploy algorithm on videos, python SDD_Video.py
+3.To deploy algorithm on live streaming webcam, python SDD_Camera.py
