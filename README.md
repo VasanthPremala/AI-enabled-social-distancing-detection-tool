@@ -22,8 +22,5 @@ Requirements:
 4.OpenCV_Contrib
 5.Math
 
-Installation of Model:
 
-1.To deploy algorithm on images, python SDD_Image.py
-2.To deploy algorithm on videos, python SDD_Video.py
-3.To deploy algorithm on live streaming webcam, python SDD_Camera.py
+Download yolov3.weights for COCO dataset
